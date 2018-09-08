@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tragic 8 ball #
 Twitter and/or Mastodon bot
 
@@ -13,6 +12,13 @@ its reply.
 The answers in that file are all lines from literary tragedies, such as
 those of Shakespeare and Tolstoy. Feel free to add your own, or replace the
 file with answers of your choice.
+
+Literature used in creating the file: 
+
+* King Lear
+
+* Anna Karenina
+
 
 # How to Tweet #
 
